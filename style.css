@@ -21,4 +21,4 @@ select, input[type="number"] { padding: 8px; border: 1px solid #ccc; border-radi
 .btn.danger:hover { background: #dc2626; }
 .btn.active { outline: 2px solid #111; }
 .hint { font-size: 0.8rem; color: #666; margin-top: 5px; }
-.status { font-size: 0.85rem; font-weight: 600; margin-top: 8px; }
+.status { font-size: 0.85rem; font-weight: 600; margin-top: 8px; }  
